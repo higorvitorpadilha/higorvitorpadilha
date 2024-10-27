@@ -1,6 +1,9 @@
 ## Oi, Sou o Higor iniciante na programação en busca de uma oportunidade!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=higorvitorpadilha&show_icons=true&theme=radical)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=higorvitorpadilha&hide_progress=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=higorvitorpadilha&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=higorvitorpadilha&hide_progress=true&theme=radical&layout=compact&langs_count=6)
+
 
 
 
