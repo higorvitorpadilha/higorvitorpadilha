@@ -17,27 +17,25 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=radical&height=80&section=footer&width=100"/>
 </div>
 
-<h1 align="center">Github Stats</h1>
+
+
+<h1 align="center"> Github Stats </h1>
 <p align="center">
   <a href="https://github.com/higorvitorpadilha/github-readme-stats">
     <img height="200px" src="https://github-readme-stats.vercel.app/api?username=higorvitorpadilha&show_icons=true&theme=dark"/>
   </a>
 </p>
 
-<h2 align="center">My Repositories</h2>
 
-<!-- Repo Cards with theme dark -->
-<p align="center">
-  <a href="https://github.com/higorvitorpadilha/repository-name-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=higorvitorpadilha&repo=repository-name-1&theme=dark" alt="Repository 1"/>
-  </a>
-  <a href="https://github.com/higorvitorpadilha/repository-name-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=higorvitorpadilha&repo=repository-name-2&theme=dark" alt="Repository 2"/>
-  </a>
-  <a href="https://github.com/higorvitorpadilha/repository-name-3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=higorvitorpadilha&repo=repository-name-3&theme=dark" alt="Repository 3"/>
-  </a>
-</p>
+
+
+
+
+
+
+
+
+
 
 <div style="display: inline_block"><br>
    <img align="center" alt="Higor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -49,12 +47,13 @@
   <img align="center" alt="Higor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
-##
+  ##
  
 <div> 
   <a href="https://www.instagram.com/higorpadilhaa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:Higorvitorpadilha@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/higor-v-padilha-41aaa4236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+<a href="mailto:Higorvitorpadilha@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+  <a href="https://www.linkedin.com/in/higor-v-padilha-41aaa4236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
 </div>
