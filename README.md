@@ -9,12 +9,14 @@
 </div>
 <div align="center">
   <br><p align="center"><b>Visitors Count</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/higorvitorpadilha/count.svg" /></p> 
+  <!-- Mudando a cor para um estilo mais vibrante -->
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/higorvitorpadilha/count.svg?color=radical" /></p> 
   <br>
 </div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=radical&height=80&section=footer&width=100"/>
 </div>
+
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=higorvitorpadilha&show_icons=true&theme=radical)!
