@@ -1,22 +1,21 @@
-
-<h1 align="center" https://capsule-render.vercel.app/api?text=capsule_render&animation=twinkling> About me </h1>
+<h1 align="center">About me</h1>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=main&width=100"/>
 </div>
 <div align="center">
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=FFFFFF&vCenter=true&width=500&lines=Hello+everyone%2C+I'm+Higor + Padilha;+I'm+a+Beginner+Software+Developer" alt="Typing SVG" />
-</a>
-  <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{luisfesantos}/count.svg" /></p> 
-<br>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=FFFFFF&vCenter=true&width=500&lines=Hello+everyone%2C+I'm+Luis+Felipe;+I'm+a+Beginner+Software+Developer" alt="Typing SVG" />
+  </a>
 </div>
-
+<div align="center">
+  <br><p align="center"><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/higorvitorpadilha/count.svg" /></p> 
+  <br>
 </div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&width=100"/>
 </div>
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=higorvitorpadilha&show_icons=true&theme=radical)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=higorvitorpadilha&layout=compact&theme=radical)
 
