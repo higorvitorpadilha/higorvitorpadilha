@@ -19,7 +19,13 @@
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=higorvitorpadilha&show_icons=true&theme=radical)!
+<h1 align="center"> Github Stats </h1>
+<p align="center">
+  <a href="https://github.com/higorvitorpadilha/github-readme-stats">
+    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=higorvitorpadilha&show_icons=true&theme=merko"/>
+  </a>
+</p>
+
 
 
 
