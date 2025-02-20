@@ -17,7 +17,7 @@
 </div>
 
 
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=higorvitorpadilha&show_icons=true&theme=radical)!
 
 
 
