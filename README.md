@@ -1,4 +1,4 @@
-<h1 align="center">About me</h1>
+<h1 align="center">About Me</h1>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=radical&height=80&section=main&width=100"/>
 </div>
