@@ -19,13 +19,13 @@ Recently, I expanded my knowledge beyond web development into **Data Engineering
 
 ## 🧠 What I’ve Learned Recently
 
-* 📊 Data Engineering concepts (ETL, pipelines, data organization)
-* ☁️ AWS Cloud (S3, EC2, basic architecture)
-* 🔄 CI/CD pipelines and deployment concepts
-* 🗄️ Working with large datasets and data processing
-* 🤖 Building automation systems using Python
-* 📡 API integration and backend communication
-* 🧪 Software quality using ISO 25010 and SonarCloud
+ 📊 Data Engineering concepts (ETL, pipelines, data organization)
+ ☁️ AWS Cloud (S3, EC2, basic architecture)
+ 🔄 CI/CD pipelines and deployment concepts
+ 🗄️ Working with large datasets and data processing
+ 🤖 Building automation systems using Python
+ 📡 API integration and backend communication
+🧪 Software quality using ISO 25010 and SonarCloud
 
 ---
 
