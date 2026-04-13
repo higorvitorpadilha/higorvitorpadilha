@@ -22,7 +22,7 @@ Python (automação e bots)
 Scripts e integração com sistemas
 
 ☁️ Cloud
-AWS (S3, EC2)
+AWS, Azure, Google cloud
 Conceitos de deploy
 
 🤖 IA no desenvolvimento
