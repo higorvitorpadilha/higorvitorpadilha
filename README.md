@@ -30,13 +30,15 @@ ChatGPT, Gemini, Claude
 GitHub Copilot
 🛠️ Tecnologias
 <div style="display: inline_block"> <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> </div>
+
 📌 Projetos
+
 🔹 Baldan System
-Sistema para centralizar dados e melhorar organização de informações.→ React • AWS • Performance • Qualidade (ISO 25010)
+Sistema para centralizar dados e melhorar organização de informações. → React • AWS • Performance • Qualidade (ISO 25010)
 
 🔹 Job Application Bot
-Automação para envio de candidaturas.
-→ Python • Automação • Integração
+
+Automação para envio de candidaturas. → Python • Automação • Integração
 
 🎯 Objetivo
 
