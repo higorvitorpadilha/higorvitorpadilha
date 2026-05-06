@@ -31,10 +31,6 @@ ChatGPT • Claude • Gemini • GitHub Copilot
 
 ## 🛠️ Tecnologias
 
-<div style="display: inline_block"><br>
-
-## 🛠️ Tecnologias
-
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" height="40"/>
@@ -46,8 +42,6 @@ ChatGPT • Claude • Gemini • GitHub Copilot
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
 </p>
-
-</div>
 
 ---
 
@@ -75,14 +69,12 @@ Automação para envio de candidaturas utilizando Python e integração de siste
 
 ## 🌐 Conecte-se comigo
 
-<div>
+<p align="left">
+  <a href="mailto:Higorvitorpadilha@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-<a href="mailto:Higorvitorpadilha@gmail.com">
-<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/higor-padilha-41aaa4236/" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-</div>
+  <a href="https://www.linkedin.com/in/higor-padilha-41aaa4236/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
