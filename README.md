@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/higor-padilha-41aaa4236/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:Higorvitorpadilha@gmail.com">
+  <a href="mailto:higorvitorpadilha@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://github.com/higorvitorpadilha" target="_blank">
@@ -124,7 +124,7 @@ Tenho interesse em oportunidades que me permitam:
 Fique à vontade para me contactar! 
 
 <p align="center">
-  <a href="mailto:Higorvitorpadilha@gmail.com" style="text-decoration: none;">
+  <a href="mailto:higorvitorpadilha@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Me%20Envie%20uma%20Mensagem-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Envie uma mensagem"/>
   </a>
 </p>
