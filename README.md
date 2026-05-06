@@ -6,68 +6,30 @@
 
 ---
 
-# 🚀 Sobre mim
+## 🚀 Sobre mim
 
-Sou desenvolvedor focado em criar projetos reais, escaláveis e com aplicação prática no mercado.
+Desenvolvedor focado em construir projetos reais e funcionais, atuando com backend, automação, cloud e integração de sistemas.
 
-Atuo principalmente com desenvolvimento backend, automação, cloud computing e integração de sistemas, construindo aplicações modernas utilizando tecnologias atuais e boas práticas de desenvolvimento.
+Tenho experiência prática com desenvolvimento web, APIs, Docker, CI/CD e automações utilizando Python.
 
-Também utilizo IA no dia a dia para acelerar desenvolvimento, otimizar processos e aumentar produtividade.
-
----
-
-# 🧠 Skills
-
-## 💻 Desenvolvimento
-- Python
-- JavaScript
-- C#
-- React
-- HTML5
-- CSS3
-- SQL
-- APIs REST
+Também utilizo IA no desenvolvimento para aumentar produtividade, acelerar soluções e otimizar processos.
 
 ---
 
-## ⚙️ Backend & Automação
-- Desenvolvimento Backend
-- Integração de APIs
-- Scripts de automação
-- Bots em Python
-- Processamento assíncrono
-- Git & GitHub
-- Docker
+## 🧠 Skills
+
+### 💻 Desenvolvimento
+Python • JavaScript • C# • React • SQL • APIs REST
+
+### ⚙️ Backend & DevOps
+Docker • GitHub Actions • CI/CD • AWS ECS • AWS ECR • Automação • Git
+
+### 🤖 IA no Desenvolvimento
+ChatGPT • Claude • Gemini • GitHub Copilot
 
 ---
 
-## ☁️ Cloud & DevOps
-- AWS
-- Azure
-- Docker
-- GitHub Actions
-- CI/CD
-- AWS ECS
-- AWS ECR
-- Deploy automatizado
-
----
-
-## 🤖 IA aplicada no desenvolvimento
-- ChatGPT
-- Claude
-- Gemini
-- GitHub Copilot
-
-Uso IA como ferramenta de produtividade para:
-- acelerar desenvolvimento
-- gerar soluções
-- automatizar tarefas
-- melhorar arquitetura e debugging
-
----
-
-# 🛠️ Tecnologias
+## 🛠️ Tecnologias
 
 <div style="display: inline_block"><br>
 
@@ -92,80 +54,39 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-o
 <img align="center" alt="Docker" height="40" width="50"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 
-<img align="center" alt="AWS" height="40" width="50"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-
 <img align="center" alt="Git" height="40" width="50"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+
+<img align="center" alt="AWS" height="40" width="50"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 
 </div>
 
 ---
 
-# 📌 Projetos em Destaque
+## 📌 Projetos
 
-## 🔹 Baldan System
-Sistema desenvolvido para centralizar dados e melhorar organização de informações empresariais.
+### 🔹 Baldan System
+Sistema para centralizar dados e melhorar organização de informações utilizando React e AWS.
 
-### Tecnologias:
-- React
-- AWS
-- APIs
-- Performance Optimization
+### 🔹 Projeto CI/CD
+Pipeline automatizada com GitHub Actions, Docker e AWS ECS utilizando práticas modernas de DevOps.
 
-### Conceitos aplicados:
-- Arquitetura de software
-- Qualidade baseada na ISO 25010
-- Escalabilidade
-- Organização de dados
+### 🔹 Job Application Bot
+Automação para envio de candidaturas utilizando Python e integração de sistemas.
 
 ---
 
-## 🔹 Projeto CI/CD com AWS ECS
-Pipeline completa de integração e deploy contínuo utilizando Docker, GitHub Actions e AWS ECS.
-
-### Tecnologias:
-- Docker
-- GitHub Actions
-- AWS ECS
-- AWS ECR
-- YAML Pipelines
-
-### Conceitos aplicados:
-- CI/CD
-- Deploy automatizado
-- DevOps
-- Cloud Computing
-- Deploy sem downtime
-
----
-
-## 🔹 Job Application Bot
-Automação para envio de candidaturas e integração de processos.
-
-### Tecnologias:
-- Python
-- Automação
-- Integração de sistemas
-
-### Conceitos aplicados:
-- Scripts automatizados
-- Produtividade
-- Bots
-
----
-
-# 🎯 Objetivo
+## 🎯 Objetivo
 
 🚀 Buscando oportunidade como:
 - Estagiário em Desenvolvimento
-- Desenvolvedor Backend Júnior
+- Backend Júnior
 - DevOps Júnior
-- Cloud & Automação
 
 ---
 
-# 🌐 Conecte-se comigo
+## 🌐 Conecte-se comigo
 
 <div>
 
@@ -178,16 +99,3 @@ Automação para envio de candidaturas e integração de processos.
 </a>
 
 </div>
-
----
-
-# 📈 Atualmente estudando
-
-- Arquitetura Backend
-- Cloud Computing
-- DevOps
-- Microsserviços
-- Escalabilidade
-- AWS
-- Docker & Containers
-- Automação com Python
