@@ -124,8 +124,8 @@ Tenho interesse em oportunidades que me permitam:
 Fique à vontade para me contactar! 
 
 <p align="center">
-  <a href="mailto:higorvitorpadilha@gmail.com">
-    <img src="https://img.shields.io/badge/Me%20Envie%20uma%20Mensagem-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Envie uma mensagem"/>
+  <a href="mailto:higorvitorpadilha@gmail.com?subject=Contato%20via%20GitHub&body=Olá%20Higor,%20vi%20seu%20perfil%20no%20GitHub.">
+    <img src="https://img.shields.io/badge/Me%20Envie%20uma%20Mensagem-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
