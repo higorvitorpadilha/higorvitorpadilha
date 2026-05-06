@@ -34,30 +34,14 @@ ChatGPT • Claude • Gemini • GitHub Copilot
 <div style="display: inline_block"><br>
 
 <img align="center" alt="Python" height="40" width="50"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
-<img align="center" alt="JavaScript" height="40" width="50"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-
-<img align="center" alt="Csharp" height="40" width="50"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-
-<img align="center" alt="React" height="40" width="50"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-
-<img align="center" alt="HTML" height="40" width="50"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-
-<img align="center" alt="CSS" height="40" width="50"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-<img align="center" alt="Docker" height="40" width="50"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-
-<img align="center" alt="Git" height="40" width="50"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-
-<img align="center" alt="AWS" height="40" width="50"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" alt="JavaScript" height="40" width="50"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="Csharp" height="40" width="50"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> <img align="center" alt="React" height="40" width="50"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> <img align="center" alt="HTML" height="40" width="50"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="CSS" height="40" width="50"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="Docker" height="40" width="50"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"> <img align="center" alt="Git" height="40" width="50"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> <img align="center" alt="AWS" height="40" width="50"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 
 </div>
