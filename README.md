@@ -26,7 +26,11 @@ Tenho experiência prática com:
 - APIs REST
 - Docker
 - CI/CD
-- AWS ECS & ECR
+- AWS
+- Azure
+- JavaScript
+- C#
+- React
 - Automação com Python
 - Integração de sistemas
 
